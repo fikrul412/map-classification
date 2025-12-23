@@ -1,0 +1,10 @@
+{
+ "year": 2021,
+ "bbox": [
+  122.546729,
+  -5.692516,
+  122.743073,
+  -5.483401],
+ "client_id" : "sh-6f6a712e-b48c-441c-bd63-665870ba37c7",
+ "client_password": "58cje6qJYFZy2C6pS1Ro8XGh6uAcJiER"
+}
