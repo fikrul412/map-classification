@@ -1,0 +1,55 @@
+import { Menubar, MenubarMenu, MenubarTrigger } from "./menubar" 
+
+export function MenuEdit(){
+    return(
+        <>
+        <Menubar className="max-w-fit ">
+            <MenubarMenu>
+              <MenubarTrigger>
+                10
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                20
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                30
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                40
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                50
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                60
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                70
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                80
+              </MenubarTrigger>
+            </MenubarMenu>
+            <MenubarMenu>
+              <MenubarTrigger>
+                90
+              </MenubarTrigger>
+            </MenubarMenu>
+          </Menubar>
+        </>
+    )
+}
